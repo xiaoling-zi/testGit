@@ -4,5 +4,5 @@ public interface Test {
 
 	void m();
 	void insert();
-
+	void delete();
 }
