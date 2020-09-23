@@ -6,5 +6,9 @@ public interface Test {
 	void insert();
 	void delete();
 	void branch3();
+
 	void test2();
+
+	void test1();
+
 }
