@@ -5,4 +5,5 @@ public interface Test {
 	void m();
 	void insert();
 	void delete();
+	void branch3();
 }
